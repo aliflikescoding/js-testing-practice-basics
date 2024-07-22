@@ -2,10 +2,6 @@
   <h1 align="center">Testing Javscript practice basics projects</h1>
 </p>
 
-## Output
-
-Visit [The Live Page](https://aliflikescoding.github.io/vanilla-calculator/) to view the details
-
 ## Description
 
 An asinged project in The Odin Project Course. It's testing in javascript using jest, In this project I learned about testing principles and jest
